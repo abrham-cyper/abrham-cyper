@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abrham</h1>
 
 <p align="center">
-  I'm a passionate full-stack developer specializing in Node.js and the EJB framework. Currently exploring Flutter and React Native!
+  <em>I'm a passionate full-stack developer specializing in <strong>Node.js</strong> and the <strong>EJB framework</strong>.</em><br>
+  <em>Currently exploring <strong>Flutter</strong> and <strong>React Native</strong>!</em>
 </p>
 
 <p align="center">
@@ -25,9 +26,11 @@
 - **DevOps**: Docker, CI/CD
 
 ## 🌐 Connect with Me
-- [Instagram](https://instagram.com/abrish5366)
-- [LinkedIn](your-linkedin-url)  <!-- Add your LinkedIn URL -->
-- [Twitter](your-twitter-url)  <!-- Add your Twitter URL -->
+<p align="center">
+  <a href="https://instagram.com/abrish5366">Instagram</a> |
+  <a href="your-linkedin-url">LinkedIn</a> |
+  <a href="your-twitter-url">Twitter</a>
+</p>
 
 ## 🛠️ Languages and Tools
 ### Frontend
@@ -42,6 +45,13 @@
 ### DevOps
 - Docker, Nginx, Git
 
-<p align="center">
+<p align="center" style="animation: fadeIn 1s;">
   Thanks for visiting my profile! 🚀
 </p>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
