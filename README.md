@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Abrham</h1>
 
-<h1 align="center">Hi 👋, I'm Abrham</h1>
 
 <h3 align="center">I am a passionate frontend and backend developer. I specialize in working with Node.js and EJB framework. Additionally, I have a deep passion for working on Flutter projects.</h3>
  
