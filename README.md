@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="left" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img align="left" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   <img src="https://komarev.com/ghpvc/?username=abrham-cyper&label=Profile%20views&color=0e75b6&style=flat" alt="abrham-cyper" />
 </p>
 
