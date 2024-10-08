@@ -1,4 +1,6 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)](https://your-website.com)
+<div align="center">
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg" style="width: 100%; height: auto;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Abrham</h1>
 
